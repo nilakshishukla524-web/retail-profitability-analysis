@@ -1,0 +1,8 @@
+1. Tables sub-category  is the biggest loss-maker -17725.59  profit
+ despite
+ 
+2. [West] region delivers highest profit margin, while [Central] underperforms — likely due to higher average discounts there.
+
+3. "Jab discount High (40%+) hota hai, profit negative ho jaata hai (-106.708317), jabki No Discount mein profit 66 tha."
+
+4. "Discount aur Profit ka correlation -0.22 hai, jo negative relationship dikhata hai — discount badhne se profit ghatta hai."
